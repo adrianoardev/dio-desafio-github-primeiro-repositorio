@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Gi/GitHub da DIO Bootcamp Eduzz Fullstack Developer
+# Desafio de Projeto sobre Git/GitHub da DIO Bootcamp Eduzz Fullstack Developer
 Repositório criado para o Bootcamp Eduzz Fullstack Developer.
 
 ## Links Úteis
